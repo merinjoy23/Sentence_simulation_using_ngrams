@@ -50,11 +50,11 @@ Sentence 10:
 
 ### Algorithm:
 
-* Step1: Start
-* Step2: Combining the input text files and converting them to lower case.
-* Step3: Generating sentence and word tokens and adding start, end tags 
-* Step4: Generating ngram sentences
-    * Step4.1: Calculating frequency and probability
-    * Step4.2: Predicting the next word
-    * Step4.3: Display the sentences
-* Step5: End
+* Step 1: Start
+* Step 2: Combining the input text files and converting them to lower case.
+* Step 3: Generating sentence and word tokens and adding start, end tags 
+* Step 4: Generating ngram sentences
+    * Step 4.1: Calculating frequency and probability
+    * Step 4.2: Predicting the next word
+    * Step 4.3: Display the sentences
+* Step 5: End
